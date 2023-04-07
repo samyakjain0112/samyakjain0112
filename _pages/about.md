@@ -25,12 +25,12 @@ Currently, I am also working under Prof. [Rishabh Iyer](https://www.rishiyer.com
 \\
 Besides this I actively participate in machine learning  and computer vision conferences and have served as a reviewer at multiple conferences and won outstanding reviewer awards at ICLR 2022 and CVPR 2022.
 
-Here is the link to my [CV](https://drive.google.com/file/d/1LjafRhfC1lFDyyjZVlTrXYvnc3Vm13Ej/view?usp=sharing).
+Here is the link to my [CV](https://drive.google.com/file/d/1-RkR64-PW96fat5oKHoMsQAB4zjAVaAM/view?usp=sharing).
 \\
 \\
 Broadly I am interested in research topics related to:
 \\
-**Trustworthy NLP:** Memorization in LLM, AI Alignment
+**Trustworthy NLP:** Memorization in Large Language Models, AI Alignment
 \\
 **Robustness:** Adversarial Robustness, OOD Robustness
 \\
