@@ -30,7 +30,7 @@ Here is the link to my [CV](https://drive.google.com/file/d/1-RkR64-PW96fat5oKHo
 \\
 Broadly I am interested in research topics related to:
 \\
-**Trustworthy NLP:** Memorization in Large Language Models, AI Alignment
+**Trustworthy NLP:** Memorization in Large Language Model, under COT Prompting in LLMs
 \\
 **Robustness:** Adversarial Robustness, OOD Robustness
 \\
