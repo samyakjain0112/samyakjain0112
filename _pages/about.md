@@ -30,11 +30,11 @@ Here is the link to my [CV](https://drive.google.com/file/d/1-RkR64-PW96fat5oKHo
 \\
 Broadly I am interested in research topics related to:
 \\
-**Trustworthy NLP:** Memorization in Large Language Model, under COT Prompting in LLMs
+**Interpretability:** Science of Deep Learning
 \\
 **Robustness:** Adversarial Robustness, OOD Robustness
 \\
-**Explainability of ML:** Generalization, Mode Connectivity, Loss landscape sharpness, Learning dynamics, Domain Generalization, Science of Deep Learning
+**Explainability of ML:** Generalization, Mode Connectivity, Loss landscape sharpness, Learning dynamics, Domain Generalization
 \\
 **Role of Data in Learning:** Spurious Features and vulnerability to Data Poisoning Attacks
 \\
