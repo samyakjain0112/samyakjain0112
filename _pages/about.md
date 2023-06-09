@@ -34,7 +34,7 @@ Broadly I am interested in research topics related to:
 \\
 **Robustness:** Adversarial Robustness, OOD Robustness
 \\
-**Explainability of ML:** Generalization, Mode Connectivity, Loss landscape sharpness, Learning dynamics, Domain Generalization
+**Generalization and Explainability:** Mode Connectivity, Loss landscape sharpness, Learning dynamics, Domain Generalization
 \\
 **Role of Data in Learning:** Spurious Features and vulnerability to Data Poisoning Attacks
 \\
