@@ -20,7 +20,7 @@ Hi! I am Samyak. I am currently working at Five AI in collaboration with Torr Vi
 Recently, I completed my interenship at Cambridge University, where I worked on [understanding fine-tuning using mechanistic interpretability](https://arxiv.org/abs/2311.12786). Before that I worked at the [Vision and AI Lab](https://val.cds.iisc.ac.in/) for more than three years where my projects were related to adversarial robustness and understanding loss landscape of neural networks, which have been published at the following [venues](./publications).
 \\
 During my undergrad, I got an opportunity to work with [Debarghya Ghoshdastidar](https://www.professoren.tum.de/en/ghoshdastidar-debarghya) at the Technical University of Munich where I built an understanding of the learning dynamics and loss landscape of linear neural networks. 
-\\
+
 
 Besides this I actively participate in machine learning  and computer vision conferences and have served as a reviewer at multiple conferences and won outstanding reviewer awards at ICLR 2022 and CVPR 2022.
 
