@@ -1,6 +1,6 @@
 ---
 layout: page
-title: DART: Diversify-Aggregate-Repeat Training Improves Generalization of Neural Networks
+title: DART Diversify-Aggregate-Repeat Training Improves Generalization of Neural Networks
 description: Implementation of our work "DART: Diversify-Aggregate-Repeat Training Improves Generalization of Neural Networks", accepted at the CVPR-2023, where we propose an explore the loss basin to find better generalized solutions.
 redirect: https://github.com/val-iisc/DART
 img: 
