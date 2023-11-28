@@ -1,4 +1,4 @@
----
+[---
 layout: about
 title: about
 permalink: /
@@ -11,31 +11,30 @@ news: true  # includes a list of news items
 selected_papers: false # includes a list of papers marked as "selected={false}"
 social: true  # includes social icons at the bottom of the page
 ---
-Final Year Master's student at IIT (BHU) Varanasi
+Interested in AI Safety
 \\
 \\
-Hi! I am Samyak.  I am pursuing integrated Bachelor and Master of Technology in [Computer Science and Engineering](https://www.iitbhu.ac.in/dept/cse) at the [Indian Institute of Technology (BHU), Varansi](https://www.iitbhu.ac.in/). For the last few years I have been broadly working on Machine Learning with a particular focus on Adversarial Robustness along with Generalizable and Explainable Machine Learning.
+Hi! I am Samyak. I am currently working at Five AI in collaboration with Torr Vision Group at Oxford, where I am advised by [Puneet Dokania][https://puneetkdokania.github.io]. Previously, I worked with [David Krueger](https://www.kasl.ai) at Cambridge University and [Venkatesh Babu](https://val.cds.iisc.ac.in/) at [Indian Institute of Science, Bangalore](https://iisc.ac.in/). Recently, I completed my bachelors and masters in [Computer Science](https://www.iitbhu.ac.in/dept/cse) at the [Indian Institute of Technology (BHU), Varansi](https://www.iitbhu.ac.in/). For the last few years I have been broadly working on Machine Learning with a particular focus on Adversarial Robustness, Generalization and Mechanistic Interpretability. Moving forward, I am excited about contributing in the field of AI Safety.
 \\
 \\
-I have been working at the [Video Analytics Lab](https://val.cds.iisc.ac.in/) at the [Indian Institute of Science, Bangalore](https://iisc.ac.in/) and have been involved in deep learning projects particularly related to adversarial robustness and understanding the loss landscape of neural networks from the perspective of sharper/wider minima and mode connectivity, which have been published at the following [venues](./publications).
+Recently, I completed my interenship at Cambridge University, where I worked on [understanding fine-tuning using mechanistic interpretability](https://arxiv.org/abs/2311.12786). Before that I waorked at the [Vision and AI Lab](https://val.cds.iisc.ac.in/) for more than three years where my projects were related to adversarial robustness and understanding loss landscape of neural networks, which have been published at the following [venues](./publications).
 \\
-I have worked with the [Theoretical foundations in AI](https://www.in.tum.de/tfai) at the Technical University of Munich where I tried on understand the learning dynamics, loss landscape and critical point solutions of linear neural networks. 
+During my undergrad, I got an opportunity to work with [Debarghya Ghoshdastidar](https://www.in.tum.de/tfai) at the Technical University of Munich where I built an understanding of the learning dynamics and loss landscape of linear neural networks. 
 \\
-Currently, I am also working under Prof. [Rishabh Iyer](https://www.rishiyer.com/) at University of Texas, Dallas, where I am trying to analyze the generalization of subset selection methods by understanding their loss landscape properties.
-\\
+
 Besides this I actively participate in machine learning  and computer vision conferences and have served as a reviewer at multiple conferences and won outstanding reviewer awards at ICLR 2022 and CVPR 2022.
 
-Here is the link to my [CV](https://drive.google.com/file/d/1-RkR64-PW96fat5oKHoMsQAB4zjAVaAM/view?usp=sharing).
+Here is the link to my [CV]().
 \\
 \\
-Broadly I am interested in research topics related to:
+Broadly I am interested in research topics related to AI safety, in particular:
 \\
-**Interpretability:** Science of Deep Learning
+**Alignment:** Unlearning, RLHF fine-tuning
+\\
+**Mechanistic Interpretability:** Science of Deep Learning
 \\
 **Robustness:** Adversarial Robustness, OOD Robustness
 \\
-**Generalization and Explainability:** Mode Connectivity, Loss landscape sharpness, Learning dynamics, Domain Generalization
+**Generalization and Foundations of ML:** Mode Connectivity, Loss landscape sharpness, Learning dynamics
 \\
-**Role of Data in Learning:** Spurious Features and vulnerability to Data Poisoning Attacks
-\\
-**Generative models:** GANS, Diffusion models
+**Role of Data in Learning:** Curating data to build safe models
